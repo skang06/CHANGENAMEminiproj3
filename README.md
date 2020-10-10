@@ -1,17 +1,17 @@
 # Factors Affecting Number of Impressions on Snapchat Political Ads in the United States for the 18-40 Age Range
 ## Background
-Recently, Snapchat has been "actively going after" political ads, according to Jeremi Gorman, Snap's chief business officer, in an Earnings call in July 2020. According to the [article](https://mashable.com/article/snapchat-political-ads-q2-2020-earnings/), Snapchat's predilection for political ads goes against peer social media companies, like Twitter. It would be interesting to see how effective they may be with voters, especially with an upcoming election. 
+Recently, Snapchat has been "actively going after" political ads, according to Jeremi Gorman, Snap's chief business officer, in an Earnings call in July 2020. According to the [article](), Snapchat's predilection for political ads goes against peer social media companies, like Twitter. It would be interesting to see how effective they may be with voters, especially with an upcoming election. 
 
 18-40 year olds are currently eligible to vote, in terms of age, and will also remain voters for the next couple years. Looking into them will prove useful. Psychologically, starting the ad on a weekend might affect number of impressions, given that people will be on their phones more perhaps. How much is spent and how long the ad is live for may increase the number of impressions as they may be more high quality and available for longer.
 
-A look into data from [Snap Political Ads Library](https://www.snap.com/en-US/political-ads/) will help us understand the reach and scope of Snapchat ads.
+A look into data from [Snap Political Ads Library]() will help us understand the reach and scope of Snapchat ads.
 
 ## Business Question
 ___How to determine engagement for political ads on Snapchat for the 18-40 age range in the United States?___
 
 ## Open Data 
-__Snap Political and Advocacy Ads Library:__ this library contains all the political and advocacy ads that Snap runs on their platform. A full data dictionary of column variables can be found [here.](https://github.com/skang06/snapchat_political_ads_2020/blob/master/readme.txt)
-- [Snapchat Political Ads 2020](https://github.com/skang06/snapchat_political_ads_2020/blob/master/PoliticalAds.csv): Dataset containing original data source. This data was [cleaned](https://github.com/skang06/snapchat_political_ads_2020/blob/master/Snapchat_data_cleaned.xls) to contain only those in the 18-40 age range in the United States.
+__Snap Political and Advocacy Ads Library:__ this library contains all the political and advocacy ads that Snap runs on their platform. A full data dictionary of column variables can be found [here.](https://github)
+- [Snapchat Political Ads 2020](https://github.): Dataset containing original data source. This data was [cleaned](https://github.com/) to contain only those in the 18-40 age range in the United States.
 
 ## Data Analysis 
 
