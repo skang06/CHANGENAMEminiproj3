@@ -7,15 +7,41 @@ Recently, Snapchat has been "actively going after" political ads, according to J
 A look into data from [Snap Political Ads Library]() will help us understand the reach and scope of Snapchat ads.
 
 ## Business Question
-___How to determine engagement for political ads on Snapchat for the 18-40 age range in the United States?___
+___Which career opportunities and resources to provide for post-doctoral students at Johns Hopkins in different departments?___
 
 ## Open Data 
-__Snap Political and Advocacy Ads Library:__ this library contains all the political and advocacy ads that Snap runs on their platform. A full data dictionary of column variables can be found [here.](https://github)
+__Snap Political and Advocacy Ads Library:__ this library contains all the political and advocacy ads that Snap runs on their platform. 
+https://provost.jhu.edu/education/graduate-and-professional-education/cngls/
+
+https://provost.jhu.edu/education/graduate-and-professional-education/cngls/postdoctoral-career-outcomes-tabular-format/
+
+
 - [Snapchat Political Ads 2020](https://github.): Dataset containing original data source. This data was [cleaned](https://github.com/) to contain only those in the 18-40 age range in the United States.
 
 ## Data Analysis 
 
 1.__How does the number of days the ad was live affect the number of impressions?__
+
+Cluster 1
+Significantly above average going into academia. As can be seen in the graph, both clusters 2 and 3 have a below average number of students going into academia. 
+
+Significantly below average going into for- profit; it is almost one standard deviation lower. It is the lowest out of the three clusters.
+
+Below average going into government. 
+
+Significantly below average going into non-profit. 
+
+Slighty above average going into teaching. 
+
+Slightly above average going into non-science related fields.
+
+Cluster 2
+
+Cluster 3
+
+
+
+
 ![alt text](https://github.com/skang06/snapchat_political_ads_2020/blob/master/days_used.png)
 
 The simple linear regression line only accounts for approximately 3% (R squared value of .03) of the data, so a multiple linear regression was modelled.
@@ -26,7 +52,6 @@ A multiple linear regression found that starting on a weekend was insignificant 
 
 _Another multiple linear regression was taken with amount spent and the days used (since weekend start was insignificant)._ 
 
-![alt text](https://github.com/skang06/snapchat_political_ads_2020/blob/master/stats.png)
 
 __Number of impressions = -331958 + 294 * amount spent + 8455 * days used.__
 
