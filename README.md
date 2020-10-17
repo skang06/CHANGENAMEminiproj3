@@ -1,4 +1,4 @@
-# Factors Affecting Number of Impressions on Snapchat Political Ads in the United States for the 18-40 Age Range
+# Career Outcomes for Post-Doctoral Students
 ## Background
 Recently, Snapchat has been "actively going after" political ads, according to Jeremi Gorman, Snap's chief business officer, in an Earnings call in July 2020. According to the [article](), Snapchat's predilection for political ads goes against peer social media companies, like Twitter. It would be interesting to see how effective they may be with voters, especially with an upcoming election. 
 
