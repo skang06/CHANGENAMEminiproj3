@@ -11,7 +11,8 @@ A look into data from [Next Generation Life Science Coalition](http://nglscoalit
 
 ## Business Question
 
-___Which career opportunities and resources should we provide for post-doctoral students at Johns Hopkins in different departments?___
+___Which career opportunities and resources should we provide for post-doctoral students at Johns Hopkins in different departments?
+What can the career center or potential employers do with this information?___
 
 
 ## Open Data 
@@ -29,38 +30,75 @@ https://provost.jhu.edu/education/graduate-and-professional-education/cngls/post
 Outline data analytics process
 
 
-1.__How can we group our data?__
+1.__How does the data group itself into separate clusters?__
 
-2.__How does the data group itself into 3 anchors?__
+_Cluster 1_
+It is the only cluster that is above average percent of postdocs going into for- profit and the only cluster with above average percent going into non-profit institutions. Although they are both less than one standard deviation above the average for both. 
 
-Cluster 1
-Significantly above average going into academia. As can be seen in the graph, both clusters 2 and 3 have a below average number of students going into academia. 
+On the other hand, it has the lowest average percent of postdocs going into academia, government, and teaching. For academia and teaching, it is more than one standard deviation below average going into those paths. This is related data point, as those who go into academia often go into teaching as well.
 
-Significantly below average going into for- profit; it is almost one standard deviation lower. It is the lowest out of the three clusters.
+_Cluster 2_
+It is the cluster with the most above average percent of postdocs going into teaching. Although they are both less than one standard deviation above the average for both.
 
-Below average going into government. 
+Interestingly, it is significantly below average percent of postdocs going into academia; it is almost one standard deviation lower. So, perhaps those going into teaching are not pursuing teaching positions in academia, unlike what one would normally expect.
 
-Significantly below average going into non-profit. 
+At almost one standard deviation below average going into for- profit institutions, cluster 2 is tied with Cluster 4 .
+
+_Cluster 3_
+It is the cluster with the most above average percent of postdocs going into academia. It is significantly above average percent of postdocs going into academia, at nearly one standard deviatioon above the mean. 
+
+The percent of postdocs going into government is also above average at .65 standard deviations above. 
+
+
+Below average going into for- profit.
+
+Below average going into non-profit.
+
+Slighty below average going into teaching. 
+
+_Significantly below average going into non science related fields; it is almost one standard deviation lower. This is same average as cluster 1 and 3._
+
+
+_Cluster 4_
+This cluster has the most above average percent of postdocs going into government. It is nearly 2 standard deviations above the average. There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3.
+
+Significantly below average going into for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutionos.
+
+Significantly above average going into government. It is more than one standard deviation higher. It is the greatest above average percent of postdocs going into government.
+
+Below average going into non-profit. It is tied with Cluster 2.
 
 Slighty above average going into teaching. 
 
-Slightly above average going into non-science related fields.
+Significantly below average going into non science related fields. Among the four clusters, this cluster has the smallest below average.
 
-Cluster 2
 
-Cluster 3
+********
 
 
 ![alt text](https://github.com/skang06/snapchat_political_ads_2020/blob/master/days_used.png)
 
-The simple linear regression line only accounts for approximately 3% (R squared value of .03) of the data, so a multiple linear regression was modelled.
 
 _The three clusters are._ 
 
+What do your findings mean and why might this be important for an organization relevant to this datasource? Highlight the characteristics of each cluster, how this information should be used in practice, and what additional data might be useful for further analysis.
 
 __Number of impressions = -331958 + 294 * amount spent + 8455 * days used.__
 
 
 ## Summary
-The analysis can help political organizations more confidently predict how much to spend on an ad and how many days to use an ad to increase the number of impressions on 18-40 year olds, and thus its effectiveness on them. This confidence may lead more organizations to utilize Snapchat in posting ads, generating revenue for the company. Moreover, this analysis is particularly important and of use now. Given how close we are to election day, it could help organizations predict whether or not it is worth it to release ads now and whether they should possibly spend more, given the time constraint. The analysis shows that, for the future, there is a benefit to political organizations in rolling out these ads early. 
-Finally, looking into other variables that could lower the standard error would help political organizations increase engagement with their election ads.
+The analysis can help career centers figure out which resources and opportunities to provide postdoc students in different departments based on which career paths are more prevalent. It can also help employers figure out which departments to target for the greatest effectiveness.
+
+Since there are many departments at Hopkins that house postdocs, the career center could implement four different subgroups within the career center in order to accomodate the four different groups of departments that tend to have similar career paths.
+
+For departments in cluster 1, the career center could organize more for-profit and non-profit institutions to come to career fairs for those departments. Those at the career center could also reach out to more of these institutions to get them to come to events for these departments. On the other hand, the profit and non-profit employers could send more information or reach out to those departments in cluster 1 (perhaps through email) because more postdoc students seem to go into these fields compared to those in the other clusters. This would help concentrate their efforts for maximum benefit (ie. they would be reaching out to students that are more likely to pursue those paths). Going into for-profit and non-profit institutions were the most popular choices. This is also what differentiated this cluster from the others. More of the postdocs in this group chose those routes.
+
+For departments in cluster 2, the career center could organize more workshops developing skills such as public speaking and effective ways to teach as they had the most postdoc students going into teaching compared to academia, for-profit, government, non-profit, and non-science related institutions, as well as compared to the other clusters.
+
+As cluster 3 had the most above average percent of postdocs going into academia compared to the other clusters, the career center could make sure they send out information about universities and colleges. Some information about governmental institutions that are hiring would also benefit those departments because it had a little more than half of a standard deviation above average go into government as well. Academia and government were the most popular in cluster 3.
+
+Going into government was the most popular for 
+
+Additional data on 
+
+might be useful for analysis.
