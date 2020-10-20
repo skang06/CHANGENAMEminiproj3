@@ -1,34 +1,36 @@
 # Career Outcomes for Post-Doctoral Students
 ## Background
 
-According to the [National Postdoctoral Association](https://www.nationalpostdoc.org/page/What_is_a_postdoc), a "postdoc" is is an "individual holding a doctoral degree who is engaged in a temporary period of mentored research and/or scholarly training for the purpose of acquiring the professional skills needed to pursue a career path of his or her choosing." In other words, they are engaging in research and/or training at a university in order to decide what they want to pursue as a career. Thus, it would be helpful to see what career paths postdocs from different departments at Johns Hopkins University pursue. This could help the career center effectively accomodate current postdoctoral students at Hopkins. Students who are, in essence, at a university while they decide where to go in terms of career.
+According to the [National Postdoctoral Association](https://www.nationalpostdoc.org/page/What_is_a_postdoc), a "postdoc" is is an "individual holding a doctoral degree who is engaged in a temporary period of mentored research and/or scholarly training for the purpose of acquiring the professional skills needed to pursue a career path of his or her choosing." In other words, they are engaging in research and/or training at a university in order to decide what they want to pursue as a career. Thus, it would be helpful to see what career paths postdocs from different departments at Johns Hopkins University pursue. This could help the career center effectively accomodate current postdoctoral students at Hopkins. This is important as postdocs are students who are, in essence, at a university while they decide where to continue on with their career.
 
-Looking into some of the areas that postdocs pursue, such as academia, for-profit, goverment, non-profit willl prove useful. Additionally, looking into what type of role such as teaching or non- science related fields could provide useful to career centers.
+Looking into some of the areas that postdocs pursue, such as academia, for-profit, goverment, non-profit, teaching positions or non- science related fields could provide useful for career centers to provide the adequate support.
 
-A look into data from [Next Generation Life Science Coalition](http://nglscoalition.org/coalition-data/#close) will provide understanding on the different career paths that Hopkins postdocs from different departments pursue.
+A look into data from [Next Generation Life Science Coalition](http://nglscoalition.org/coalition-data/#close) will elucidate the different career paths that Johns Hopkins Hopkins postdocs from different departments pursue.
 
 ## Business Question
 
-___Which career opportunities and resources should we provide for post-doctoral students at Johns Hopkins in different departments?
-What can the career center or potential employers do with this information?___
+___What career opportunities and resources should a career center provide for post-doctoral students at Johns Hopkins in different departments?___
 
 
 ## Open Data 
-__Next Generation Life Science Coalition:__ this library contains the different 
 
-https://provost.jhu.edu/education/graduate-and-professional-education/cngls/
+__[Next Generation Life Science Coalition](https://provost.jhu.edu/education/graduate-and-professional-education/cngls/):__ this library contains the different career outcomes for postdocs and doctorul students at Hopkins. [Career outcomes for postdocs](https://provost.jhu.edu/education/graduate-and-professional-education/cngls/postdoctoral-career-outcomes-tabular-format/) was used.
 
-https://provost.jhu.edu/education/graduate-and-professional-education/cngls/postdoctoral-career-outcomes-tabular-format/
+- [Postdoc Career Outcomes](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/tabula-Postdoc-CareerOutcome-ADATables-083019-2.csv): Dataset containing original data source where the "teaching" and "non-science related" was gleaned from.
 
+- [Postdoc Career Outcomes](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/tabula-Postdoc-CareerOutcome-ADATables-083019.csv): Dataset containing original data source where the "teaching" and "non-science related" was gleaned from.
 
-- [Snapchat Political Ads 2020](https://github.): Dataset containing original data source. This data was [cleaned](https://github.com/) to contain only those in the 18-40 age range in the United States.
+- Data was [cleaned](https://github.com/) to only include percentages.
 
 ## Data Analysis 
 
-First, a cluster analysis was conducted with 3 anchors. As the aim is to minimize the sum of the minimum distances between the anchors
+First, a cluster analysis was conducted with 3 anchors. As the aim is to minimize the sum of the minimum distances between the anchors and the individual data points, 
 
+__How does the data group itself into separate clusters?__
 
-1.__How does the data group itself into separate clusters?__
+__Clusters and Their Characteristics__
+![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
+![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/factors.png)
 
 _Cluster 1_
 It is the only cluster that is above average percent of postdocs going into for- profit and the only cluster with above average percent going into non-profit institutions. Although they are both less than one standard deviation above the average for both. 
@@ -70,24 +72,13 @@ Slighty above average going into teaching.
 
 Significantly below average going into non science related fields. Among the four clusters, this cluster has the smallest below average.
 
-
-********
-
-
-![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
-
-![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/factors.png)
-_The three clusters are._ 
-
-What do your findings mean and why might this be important for an organization relevant to this datasource? Highlight the characteristics of each cluster, how this information should be used in practice, and what additional data might be useful for further analysis.
-
-__Number of impressions = -331958 + 294 * amount spent + 8455 * days used.__
-
+__List of Departments and Their Relevant Cluster__
+![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/list.png)
 
 ## Summary
 The analysis can help career centers figure out which resources and opportunities to provide postdoc students in different departments based on which career paths are more prevalent. It can also help employers figure out which departments to target for the greatest effectiveness.
 
-Since there are many departments at Hopkins that house postdocs, the career center could implement four different subgroups within the career center in order to accomodate the four different groups of departments that tend to have similar career paths.
+This is important since there are many departments at Hopkins that house postdocs, the career center could implement four different subgroups within the career center in order to accomodate the four different groups of departments that tend to have similar career paths.
 
 For departments in cluster 1, the career center could organize more for-profit and non-profit institutions to come to career fairs for those departments. Those at the career center could also reach out to more of these institutions to get them to come to events for these departments. On the other hand, the profit and non-profit employers could send more information or reach out to those departments in cluster 1 (perhaps through email) because more postdoc students seem to go into these fields compared to those in the other clusters. This would help concentrate their efforts for maximum benefit (ie. they would be reaching out to students that are more likely to pursue those paths). Going into for-profit and non-profit institutions were the most popular choices. This is also what differentiated this cluster from the others. More of the postdocs in this group chose those routes.
 
