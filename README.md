@@ -52,12 +52,9 @@ __List of Departments and Their Relevant Cluster__
 ## Implementation and Summary
 This analysis can help Johns Hopkins' career center divide up their resources and opportunities to postdoc students in different departments based on which career paths are more prevalent in different groups. This is important since there are many departments at Hopkins that house postdocs, so figuring out an organized method of attack helps them work efficiently. Additionally, postdocs are usually doing research and/or training at a university temporarily before they decide where they want to go next in terms of their career, so an effective career center to help facilitate this transition is important. The career center could divide their center into four different subgroups to accomodate the four categories of departments that tend towards similar career paths. What each subgroup of the career center can focus on and do for each cluster of departments is outlined below based on what were the most popular career outcomes.
 
-__Cluster 1 - For-profit and non-profit institutions__:Reach out and organize more for-profit and non-profit institutions to come to career fairs or other events for these departments.
-
+__Cluster 1 - For-profit and non-profit__: Reach out and organize more for-profit and non-profit institutions to come to career fairs or other events for these departments.
 __Cluster 2 - Teaching__: Organize more workshops developing skills for teaching such as public speaking and effective ways to teach for the postdocs, as these are skills not learned as much during studies.
-
 __Cluster 3 - Academia and government (to a lesser extent)__: Send out information about universities and colleges, and reach out to them as well. Given that many in academia go into research, provide more awareness on research opportunities. Information about governmental institutions that are hiring would also be of benefit.
-
 __Cluster 4 - Government__: Reach out to governmental institutions for potential job openings. Additionally, organize workshops focused on governmental law could be of great use to these departments. The center can also let cluster 3 know about these governmental workshops.
 
 Overall, it would not be most effective for the career center to focus on non-science related fields for all the clusters, but perhaps they can look into it more for cluster 4.
