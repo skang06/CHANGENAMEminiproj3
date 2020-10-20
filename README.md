@@ -27,28 +27,27 @@ K-means clustering analysis was used in Excel. The cluster analysis was initally
 A step-by-step Excel data analysis can be found [here](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/Excel%20Step%20by%20Step_3.docx).
 
 __Clusters and Their Characteristics__
-The division of the clusters with the relevant z scores for each anchor, as well as an illustration of the characteristics of each anchor can be found below.
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/factors.png)
 
-_Cluster 1_: Above average percent of postdocs going into non-profit. Slightly above average going into for- profit. 
-Significantly below average percent of postdocs going into academia/teaching/non science related fields. Below average going into government. 
+_Cluster 1_: Above average percent of postdocs going into non-profit. Slightly above average for- profit. 
+Significantly below average percent of postdocs going into academia/teaching/non science related fields. Below average government. 
 - It is the only cluster that has an above average going into for- profit and the only cluster with an above average percent going into non-profit institutions, although they are both less than one standard deviation above. On the other hand, it has the greatest below average percent going into academia, government, and teaching among the clusters. For academia and teaching, it is more than one standard deviation below average, which demonstrates their unpopularity with postdocs.
 
-_Cluster 2_: Above average percent of postdocs going into teaching. Very slightly above average going into government. 
-Significantly below average percent of postdocs going into academia/for- profit/ non science related fields. Below average going into non-profit
+_Cluster 2_: Above average percent going into teaching. Very slightly above average government. 
+Significantly below average going into academia/for- profit/ non science related fields. Below average non-profit.
 - It is the cluster with the most above average percent of postdocs going into teaching, although it is less than one standard deviation above. Interestingly, it has a significantly below average percent going into academia (almost one standard deviation lower). So, perhaps those going into teaching are not pursuing teaching positions in academia, unlike what one would normally expect.
 
-_Cluster 3_: Significantly above average going into academia. Above average going into government. 
-Below average going into for- profit/ non-profit. Slighty below average going into teaching.  Significantly below average going into non science related fields.
+_Cluster 3_: Significantly above average going into academia. Above average government. 
+Below average going into for- profit/ non-profit. Slighty below average teaching.  Significantly below average non science related fields.
 - It is the cluster with the most above average percent of postdocs going into academia (nearly one standard deviation above the mean). The percent of postdocs going into government is also above average at .65 standard deviations above. 
 
 _Significantly below average going into non science related fields at almost one standard deviation lower for cluster 1,2, and 3._
 
-_Cluster 4_: Significantly above average going into government. Slightly above average going into academia/teaching. 
-Significantly below average going into for- profit/non science related fields. Below average going into non-profit.
+_Cluster 4_: Significantly above average going into government. Slightly above average academia/teaching. 
+Significantly below average for- profit/non science related fields. Below average non-profit.
 - This cluster has the most above average percent of postdocs going into government (nearly 2 standard deviations above the average). There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3.
-- Significantly below average going into for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields, indicating there is a greater percentage going compared to the other clusters, although it is still below average.
+- Significantly below average in for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields, indicating there is a greater percentage going compared to the other clusters, although it is still below average.
 
 
 __List of Departments and Their Relevant Cluster__
@@ -57,7 +56,7 @@ __List of Departments and Their Relevant Cluster__
 
 
 ## Implementation and Summary
-This analysis can help Johns Hopkins' career center divide up their resources and opportunities to postdoc students in different departments based on which career paths are more prevalent in different groups. This is important since there are many departments at Hopkins that house postdocs, so figuring out an organized method of attack helps them work efficiently. Additionally, postdocs are usually doing research and/or training at a university temporarily before they decide where they want to go next in terms of their career, so an effective career center to help facilitate this transition is important. The career center could divide their center into four different subgroups to accomodate the four categories of departments that tend towards similar career paths. What each subgroup of the career center can focus on for each cluster of departments is outlined below.
+This analysis can help Johns Hopkins' career center divide up their resources and opportunities to postdoc students in different departments based on which career paths are more prevalent in different groups. This is important since there are many departments at Hopkins that house postdocs, so figuring out an organized method of attack helps them work efficiently. Additionally, postdocs are usually doing research and/or training at a university temporarily before they decide where they want to go next in terms of their career, so an effective career center to help facilitate this transition is important. The career center could divide their center into four different subgroups to accomodate the four categories of departments that tend towards similar career paths. What each subgroup of the career center can focus on for each cluster of departments is outlined below based on what were the most popular career outcomes.
 
 __Cluster 1__: For-profit and non-profit institutions were the most popular career outcomes. The career center could reach out and organize more for-profit and non-profit institutions to come to career fairs or other events for these departments. 
 
