@@ -74,7 +74,7 @@ Significantly below average going into non science related fields. Among the fou
 ********
 
 
-![alt text](https://github.com/skang06/snapchat_political_ads_2020/blob/master/days_used.png)
+![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart.png)
 
 
 _The three clusters are._ 
