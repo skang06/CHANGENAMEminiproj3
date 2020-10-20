@@ -1,11 +1,9 @@
 # Career Outcomes for Post-Doctoral Students
 ## Background
 
-According to the [National Postdoctoral Association](https://www.nationalpostdoc.org/page/What_is_a_postdoc), a "postdoc" is is an "individual holding a doctoral degree who is engaged in a temporary period of mentored research and/or scholarly training for the purpose of acquiring the professional skills needed to pursue a career path of his or her choosing." In other words, they are engaging in research and/or training at a university in order to decide what they want to pursue as a career.
+According to the [National Postdoctoral Association](https://www.nationalpostdoc.org/page/What_is_a_postdoc), a "postdoc" is is an "individual holding a doctoral degree who is engaged in a temporary period of mentored research and/or scholarly training for the purpose of acquiring the professional skills needed to pursue a career path of his or her choosing." In other words, they are engaging in research and/or training at a university in order to decide what they want to pursue as a career. Thus, it would be helpful to see what career paths postdocs from different departments at Johns Hopkins University pursue. This could help the career center effectively accomodate current postdoctoral students at Hopkins. Students who are, in essence, at a university while they decide where to go in terms of career.
 
-It would be interesting to see what career paths postdocs from different departments at Johns Hopkins University pursue. This could help the career center effectively accomodate current postdoctoral students at Hopkins.
-
-Looking into common areas, such as academia, for-profit, goverment, non-profit willl prove useful. Additionally, looking into what type of role such as teaching could help as well, as well as the percentage going into non- science related fields.
+Looking into some of the areas that postdocs pursue, such as academia, for-profit, goverment, non-profit willl prove useful. Additionally, looking into what type of role such as teaching or non- science related fields could provide useful to career centers.
 
 A look into data from [Next Generation Life Science Coalition](http://nglscoalition.org/coalition-data/#close) will provide understanding on the different career paths that Hopkins postdocs from different departments pursue.
 
@@ -27,7 +25,7 @@ https://provost.jhu.edu/education/graduate-and-professional-education/cngls/post
 
 ## Data Analysis 
 
-Outline data analytics process
+First, a cluster analysis was conducted with 3 anchors. As the aim is to minimize the sum of the minimum distances between the anchors
 
 
 1.__How does the data group itself into separate clusters?__
@@ -97,8 +95,11 @@ For departments in cluster 2, the career center could organize more workshops de
 
 As cluster 3 had the most above average percent of postdocs going into academia compared to the other clusters, the career center could make sure they send out information about universities and colleges. Some information about governmental institutions that are hiring would also benefit those departments because it had a little more than half of a standard deviation above average go into government as well. Academia and government were the most popular in cluster 3.
 
-Going into government was the most popular for 
+Going into government was the most popular choice for those in departments in cluster 4. It also had some people go into academia and teaching. The career center should make sure they have reach out to governmental institutions for potential job openings.
 
-Additional data on 
+Furthermore, the career center could look into developing relationships with ___ in order to perhaps have people come in for panels that can better educate postdocs about the different avenues even within the potential career paths that they are drawn to.
 
-might be useful for analysis.
+By developing more specific initiatives with the career center, it could help postdocs more easily land jobs. it could help postdocs value their institution and more
+
+Additional specific data on what kinds of non-profits or for-profits the postdocs pursue for would provide more detailed analysis. There are a lot of different kinds of nonprofits and for-profit institutions, so having a more detailed division of the percentage that go into each would provide useful analysis for career centers and employers alike. Furthermore, data on the specific companies that postdocs go to could help the career center find similar companies that are popular with the students
+
