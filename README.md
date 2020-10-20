@@ -30,21 +30,17 @@ __Clusters and Their Characteristics__
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/factors.png)
 
-_Cluster 1_: 
-- It is the only cluster that has an above average going into for- profit and the only cluster with an above average percent going into non-profit institutions, although they are both less than one standard deviation above. On the other hand, it has the greatest below average percent going into academia, government, and teaching among the clusters. For academia and teaching, it is more than one standard deviation below average, which demonstrates their unpopularity with postdocs.
+_Cluster 1_: It is the only cluster that has an above average going into for- profit and the only cluster with an above average percent going into non-profit institutions, although they are both less than one standard deviation above. On the other hand, it has the greatest below average percent going into academia, government, and teaching among the clusters. For academia and teaching, it is more than one standard deviation below average, which demonstrates their unpopularity with postdocs.
 
-_Cluster 2_: 
-- It is the cluster with the most above average percent of postdocs going into teaching, although it is less than one standard deviation above. Interestingly, it has a significantly below average percent going into academia (almost one standard deviation lower). So, perhaps those going into teaching are not pursuing teaching positions in academia, unlike what one would normally expect.
+_Cluster 2_: It is the cluster with the most above average percent of postdocs going into teaching, although it is less than one standard deviation above. Interestingly, it has a significantly below average percent going into academia (almost one standard deviation lower). So, perhaps those going into teaching are not pursuing teaching positions in academia, unlike what one would normally expect. 
 - Very slightly above average government. Significantly below average academia/for- profit/ non science related fields. Below average non-profit.
 
-_Cluster 3_:
-- It is the cluster with the most above average percent of postdocs going into academia (nearly one standard deviation above the mean). The percent of postdocs going into government is also above average at .65 standard deviations above. 
+_Cluster 3_: It is the cluster with the most above average percent of postdocs going into academia (nearly one standard deviation above the mean). The percent of postdocs going into government is also above average at .65 standard deviations above. 
 - Below average for- profit/ non-profit. Slighty below average teaching.  
 
 _Significantly below average going into non science related fields at almost one standard deviation lower for cluster 1,2, and 3._
 
-_Cluster 4_:  
-- This cluster has the most above average percent of postdocs going into government (nearly 2 standard deviations above the average). There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3. Slightly above average teaching. 
+_Cluster 4_: This cluster has the most above average percent of postdocs going into government (nearly 2 standard deviations above the average). There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3. Slightly above average teaching. 
 - Significantly below average in for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields, indicating there is a greater percentage going compared to the other clusters, although it is still below average.  Below average non-profit.
 
 
