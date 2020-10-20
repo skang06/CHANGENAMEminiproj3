@@ -3,15 +3,13 @@
 
 According to the [National Postdoctoral Association](https://www.nationalpostdoc.org/page/What_is_a_postdoc), a "postdoc" is is an "individual holding a doctoral degree who is engaged in a temporary period of mentored research and/or scholarly training for the purpose of acquiring the professional skills needed to pursue a career path of his or her choosing." In other words, they are engaging in research and/or training at a university in order to decide what they want to pursue as a career. Thus, it would be helpful to see what career paths postdocs from different departments at Johns Hopkins University pursue. This could help the career center effectively accomodate current postdoctoral students at Hopkins. This is important as postdocs are students who are, in essence, at a university while they decide where to continue on with their career.
 
-By developing more specific initiatives with the career center, it could help postdocs more easily land jobs, which in turn could help postdocs value their institution and more. CHANGE!!!!
-
-Looking into some of the areas that postdocs pursue, such as academia, for-profit, goverment, non-profit, teaching positions or non- science related fields could provide useful for career centers to provide the adequate support.
+Looking into some of the areas that postdocs pursue, such as academia, for-profit, goverment, non-profit, teaching positions or non- science related fields could prove useful for career centers to provide adequate support.
 
 A look into Johns Hopkins data from [Next Generation Life Science Coalition](http://nglscoalition.org/coalition-data/#close) will elucidate the different career paths that Hopkins postdocs from different departments pursue.
 
 ## Business Question
 
-___What career opportunities and resources should a career center provide for post-doctoral students at Johns Hopkins in different departments?___
+___How can Johns Hopkins' career center provide different career opportunities and resources for post-doctoral students in different departments?___
 
 
 ## Open Data 
@@ -63,17 +61,15 @@ __List of Departments and Their Relevant Cluster__
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/list.png)
 
 ## Implementation
-The analysis can help career centers figure out which resources and opportunities to provide postdoc students in different departments based on which career paths are more prevalent. It can also help employers figure out which departments to target and concentrate their efforts on for the greatest effectiveness(ie. they would be reaching out to students that are more likely to pursue those paths). This is important since there are many departments at Hopkins that house postdocs, the career center could implement four different subgroups within the career center in order to organize their efforts and accomodate the four different groups of departments that tend to have similar career paths.
+This analysis can help career centers figure out which resources and opportunities to provide postdoc students in different departments based on which career paths are more prevalent. It can also help employers figure out which departments to target and concentrate their efforts on for the greatest effectiveness (ie. they would be reaching out to students that are more likely to pursue those paths). This is important since there are many departments at Hopkins that house postdocs, thus figuring out an oorganized method of attack would prove fruitful. The career center could implement four different subgroups to accomodate the four different groups of departments that tend towards similar career paths. 
 
-Furthermore, the career center could look into developing relationships with ___ in order to perhaps have people come in for panels that can better educate postdocs about the different avenues even within the potential career paths that they are drawn to.
+Cluster 1: For-profit and non-profit institutions were the most popular career outcomes. The career center could reach out and organize more for-profit and non-profit institutions to come to career fairs or other events for these departments. On the other hand, the for-profit and non-profit employers could send more information or reach out to these departments and hold more events and panels to educate the students.
 
-Cluster 1: For-profit and non-profit institutions were the most popular career outcomes. The career center could reach out and organize more for-profit and non-profit institutions to come to career fairs or other events for these departments. On the other hand, the profi t and non-profit employers could send more information or reach out to these departments(perhaps through email). 
+Cluster 2: Teaching was the most popular path. The career center could organize more workshops developing skills such as public speaking and effective ways to teach for the postdocs, as these are skills not learned as much during studies.
 
-Cluster 2: Teaching was the most popular path. The career center could organize more workshops developing skills such as public speaking and effective ways to teach. 
+Cluster 3: Academia and government were the most popular. The career center could make sure they send out information about universities and colleges, and reach out to them as well. Some information about governmental institutions that are hiring would also benefit these departments.
 
-Cluster 3: Academia and government were the most popular in cluster 3. The career center could make sure they send out information about universities and colleges. Some information about governmental institutions that are hiring would also benefit those departments because it had a little more than half of a standard deviation above average go into government as well. 
+Cluster 4: Government was the most popular choice for those in departments in this cluster. It also had some people go into academia and teaching. The career center should make sure they reach out to governmental institutions for potential job openings.
 
-Cluster 4: Government was the most popular choice for those in departments in cluster 4. It also had some people go into academia and teaching. The career center should make sure they have reach out to governmental institutions for potential job openings.
-
-Additional specific data on what kinds of non-profits or for-profits the postdocs pursue for would provide more detailed analysis. There are a lot of different kinds of nonprofits and for-profit institutions, so having a more detailed division of the percentage that go into each would provide useful analysis for career centers and employers alike. Furthermore, data on the specific companies that postdocs go to could help the career center find similar companies that are popular with the students
+Additional specific data on what specific kinds of non-profits or for-profits the postdocs pursue would provide more detailed analysis. There are a lot of different kinds of nonprofits and for-profit institutions, so having a more detailed division of the percentage that go into each help career centers and employers alike. Furthermore, overall data on the specific companies that postdocs go to could help the career center find similar companies that are popular with the students
 
