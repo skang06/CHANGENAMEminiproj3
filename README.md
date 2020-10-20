@@ -53,6 +53,7 @@ Significantly below average going into for- profit/non science related fields. B
 - Significantly below average going into for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields.
 
 A list of the departments and the cluster they fall in can be found in the chart below.
+
 __List of Departments and Their Relevant Cluster__
 
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/list.png)
