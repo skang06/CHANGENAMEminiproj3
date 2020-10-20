@@ -29,6 +29,7 @@ K-means clustering analysis was used in Excel. The cluster analysis was initally
 A step-by-step Excel data analysis can be found [here](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/Excel%20Step%20by%20Step_3.docx).
 
 __Clusters and Their Characteristics__
+The division of the clusters with the relevant z scores for each anchor, as well as an illustration of the characteristics of each anchor can be found below.
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/factors.png)
 
@@ -53,6 +54,7 @@ Significantly below average going into for- profit/non science related fields. B
 
 A list of the departments and the cluster they fall in can be found in the chart below.
 __List of Departments and Their Relevant Cluster__
+
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/list.png)
 
 
