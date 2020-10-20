@@ -52,7 +52,6 @@ Significantly below average going into for- profit/non science related fields. B
 - This cluster has the most above average percent of postdocs going into government. It is nearly 2 standard deviations above the average. There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3.
 - Significantly below average going into for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields.
 
-A list of the departments and the cluster they fall in can be found in the chart below.
 
 __List of Departments and Their Relevant Cluster__
 
