@@ -28,7 +28,7 @@ ___How does the data group itself into separate clusters?___
 
 K-means clustering analysis was used in Excel. The cluster analysis was initally conducted with 3 anchors. As the aim is to minimize the sum of the minimum squared distances between the anchors and the individual data points, a cluster analysis with 4 nodes was also conducted. The cluster analysis with 4 nodes had a lower sum of the minimum squared distances. The 5-anchor cluster analysis also had a lower sum. Nonetheless, there was only 1 department in the 5th anchor, which indicated that 5 anchors was unnecessary. Thus, the 4-anchor cluster model was the best.
 
-Z-scores were calculated and then clustering was implemented by figuring out the 4 nodes that minimized the sum of the minimum squared distances between the anchors and the individual data points.
+Z-scores were calculated and then clustering was implemented by figuring out the 4 nodes that clustered the data into 4 groups, and minimized the sum of the minimum squared distances between the anchors and the individual data points.
 
 __Clusters and Their Characteristics__
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
