@@ -45,12 +45,12 @@ _Cluster 3_: Significantly above average going into academia. Above average goin
 Below average going into for- profit/ non-profit. Slighty below average going into teaching.  Significantly below average going into non science related fields.
 - It is the cluster with the most above average percent of postdocs going into academia, at nearly one standard deviation above the mean. The percent of postdocs going into government is also above average at .65 standard deviations above. 
 
-_Significantly below average going into non science related fields at almost one standard deviation lower for cluster 1 - 3._
+_Significantly below average going into non science related fields at almost one standard deviation lower for cluster 1,2, and 3._
 
 _Cluster 4_: Significantly above average going into government. Slightly above average going into academia/teaching. 
 Significantly below average going into for- profit/non science related fields. Below average going into non-profit.
-- This cluster has the most above average percent of postdocs going into government. It is nearly 2 standard deviations above the average. There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3.
-- Significantly below average going into for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields.
+- This cluster has the most above average percent of postdocs going into government, at nearly 2 standard deviations above the average. There is also an above average percent of postdocs going into academia, although it is not nearly as many as cluster 3.
+- Significantly below average going into for- profit. It is tied with Cluster 4 for most below average percent of post docs going into for-profit institutions. Among the four clusters, this cluster has the smallest below average percent of postdocs go into non- science related fields, indicating there is a greater percentage going into non-science related fields compared to the other clusters, although it is still below average.
 
 
 __List of Departments and Their Relevant Cluster__
@@ -68,6 +68,8 @@ __Cluster 2__: Teaching was the most popular path. The career center could organ
 __Cluster 3__: Academia and government were the most popular. The career center could make sure they send out information about universities and colleges, and reach out to them as well. Given that many in academia go into research, providing details on research opportunities would be useful to this clusteer. Some information about governmental institutions that are hiring would also be of benefit.
 
 __Cluster 4__: Government was the most popular choice for those in departments in this cluster. It also had some people go into academia and teaching. The career center should make sure they reach out to governmental institutions for potential job openings. Additionally, workshops focused on governmental law could be of great use to the departments in this cluster. The career center can also let cluster 3 know about some of these governmental workshops.
+
+Overall, it would not be most effective for the career center to focus on non-science related fields for all the clusters, but perhaps they can look into it more for cluster 4.
 
 Additional data on what specific kinds of companies within non-profits or for-profits the postdocs pursue would provide more detailed analysis. There are a lot of different kinds of nonprofits and for-profit institutions, so having a more detailed division of the percentage that go into each help career centers and employers alike. Furthermore, overall data on the specific companies that postdocs go to could help the career center find similar companies that are popular with the students
 
