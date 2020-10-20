@@ -76,7 +76,7 @@ Significantly below average going into non science related fields. Among the fou
 
 ![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
 
-![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/chart1.png)
+![alt text](https://github.com/skang06/Post-Doctoral_Career_Outcomes/blob/main/factors.png)
 _The three clusters are._ 
 
 What do your findings mean and why might this be important for an organization relevant to this datasource? Highlight the characteristics of each cluster, how this information should be used in practice, and what additional data might be useful for further analysis.
